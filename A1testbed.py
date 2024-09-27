@@ -67,5 +67,5 @@ def _plotCls():
 
 if __name__ == "__main__":
 
-	_plotReg()
+	#_plotReg()
 	_plotCls()
